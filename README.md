@@ -1,2 +1,2 @@
 # Hello-Word
-This is my first project on github
+This is my first project in github
